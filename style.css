@@ -154,7 +154,7 @@
   flex-direction: column;
   text-align: center;
   gap: 3vmin;
-  background-image: url("Flower Asset/Rectangle 9.png");
+  background-image: url("./Flower Asset/Rectangle 9.png");
   background-repeat: no-repeat;
   background-size: cover cover;
   border-radius: 10px;
